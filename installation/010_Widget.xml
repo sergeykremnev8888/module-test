@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><COMPONENTS author="skremnev" description="" name="vepm.net_BPL_06162026113230.xml" site="http&#x3a;&#x2f;&#x2f;vepm.net" ts="" ><WIDGETS>
+ <WIDGETS_ITEM>
+  <WIDGET_ID>1240</WIDGET_ID>
+  <WIDGET_NAME>Module Placeholder</WIDGET_NAME>
+  <TRACKOR_TYPE_ID>110764</TRACKOR_TYPE_ID>
+  <TRACKOR_TYPE>Account</TRACKOR_TYPE>
+  <WIDGET>
+   <ALLOW_FULL_ACCESS>0</ALLOW_FULL_ACCESS>
+   <WIDGET_CODE>&lt;p&gt;{$memoValue}&lt;/p&gt;</WIDGET_CODE>
+   <TRACKOR_TYPE>Account</TRACKOR_TYPE>
+   <WIDGET_PARAMS>
+    <T_WIDGET_PARAM>
+     <NAME>memoValue</NAME>
+     <PARAM_DATA_TYPE_ID>200</PARAM_DATA_TYPE_ID>
+     <VALUE_CLOB>{&quot;param1&quot;: &quot;{param1_value}&quot;}</VALUE_CLOB>
+    </T_WIDGET_PARAM>
+   </WIDGET_PARAMS>
+  </WIDGET>
+  <BPD_ITEMS>
+   <T_BPD_ITEM>
+    <ITEM_ID>1000913668190</ITEM_ID>
+    <PKEY>1240</PKEY>
+    <ITEM_TYPE_ID>51</ITEM_TYPE_ID>
+    <ITEM_STATUS_ID>1</ITEM_STATUS_ID>
+    <BLOB_DATA/>
+    <PROGRAM_ID>1000952621</PROGRAM_ID>
+    <NAME>Module Placeholder</NAME>
+    <APP_LABEL/>
+   </T_BPD_ITEM>
+  </BPD_ITEMS>
+  <PROGRAM_ID>1000952621</PROGRAM_ID>
+  <COMPONENT_PACKAGES/>
+ </WIDGETS_ITEM>
+</WIDGETS>
+</COMPONENTS>
