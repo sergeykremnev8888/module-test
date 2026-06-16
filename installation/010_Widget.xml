@@ -12,7 +12,7 @@
     <T_WIDGET_PARAM>
      <NAME>memoValue</NAME>
      <PARAM_DATA_TYPE_ID>200</PARAM_DATA_TYPE_ID>
-     <VALUE_CLOB>{&quot;param1&quot;: &quot;{param1_value}&quot;}</VALUE_CLOB>
+     <VALUE_CLOB>${&quot;param1&quot;: &quot;{param1_value}&quot;}</VALUE_CLOB>
     </T_WIDGET_PARAM>
    </WIDGET_PARAMS>
   </WIDGET>
