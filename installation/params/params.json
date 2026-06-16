@@ -1,0 +1,18 @@
+[{
+    "name" : "param1_value",
+    "typeId": 0,
+    "value": "",
+    "paramSql" : "", 
+    "description" : "Some description for the parameter",
+    "isReadOnly" : false,
+    "isHidden" : false
+},
+{
+    "name" : "TrackorTypeName",
+    "typeId": 0,
+    "value": "",
+    "paramSql" : "", 
+    "description" : "Some description for the parameter",
+    "isReadOnly" : false,
+    "isHidden" : false
+}]
